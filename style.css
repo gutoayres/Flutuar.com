@@ -1,11 +1,10 @@
 body {
     font-family: 'Open Sans', sans-serif;
     text-align: center;
-    margin: 0;
     font-size: 15px;
 }  
 
-main {
+#main {
     width: 626px;
     height: 486px;
     margin: 64px auto 64px;
